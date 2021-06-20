@@ -4,7 +4,7 @@
 
 * [About](#About)
 * [Requirements](#Requirements)
-* [Getting Started](#GettingStarted)
+* [Getting Started](#Getting Started)
 
 <a id="About"></a>
 ## About
